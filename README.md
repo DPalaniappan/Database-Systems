@@ -5,4 +5,5 @@ Python libraries that are important for backed development in software engineeri
 
 Technologies Used:
 Programming Languages: Python, Psycopg library, Peewee library, PostgreSQL
+
 Tools: Visual Studio Code, PgAdmin
